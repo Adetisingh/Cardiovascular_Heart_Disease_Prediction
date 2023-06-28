@@ -3,7 +3,23 @@ The goal of this project is to predict if an individual is suffering from cardio
 -Logistic Regression
 - Decision Tree
 - K-Nearest Neighbour
-  These three models need to be compared to predict the results of comparison with better accuracy.
+
+
+
+
+
+   These three models need to be compared to predict the results of comparison with better accuracy.
+
+
+
+
+
+
+
+
+
+
+
   The Dataset used is taken from Kaggle.
    
 
