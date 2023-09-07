@@ -6,7 +6,7 @@ The goal of this project is to predict if an individual is suffering from cardio
 
 
 
- - -Logistic Regression
+ - Logistic Regression
  - Decision Tree
  - K-Nearest Neighbour
 
