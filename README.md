@@ -86,5 +86,5 @@ pip install -r requirements.txt
 ```
 **2.** *Run the Jupyter Notebook:*
 ```
-jupyter notebook Cardiovascular_Heart_Disease_Prediction.ipynb
+jupyter notebook Datascience project.ipynb
 ```
