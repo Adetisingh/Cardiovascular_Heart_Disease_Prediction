@@ -80,15 +80,11 @@ The results are analyzed to determine which model performs best for predicting c
 
 **How to Run:-**
 
-**1.** *Clone this repository:*
-```
-git clone <repository-url>
-```
-**2.** *Install required dependencies:*
+**1.** *Install required dependencies:*
 ```
 pip install -r requirements.txt
 ```
-**3.** *Run the Jupyter Notebook or Python script:*
+**2.** *Run the Jupyter Notebook or Python script:*
 ```
 jupyter notebook Cardiovascular_Heart_Disease_Prediction.ipynb
 ```
