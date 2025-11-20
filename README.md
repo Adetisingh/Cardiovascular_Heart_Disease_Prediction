@@ -1,35 +1,96 @@
-# Cardiovascular_Heart_Disease_Prediction
-The goal of this project is to predict if an individual is suffering from cardiovascular heart disease and comparing three models:
+# Cardiovascular Heart Disease Prediction
+
+**Project Overview:-**
+This project aims to predict whether an individual is at risk of **cardiovascular heart disease** using machine learning techniques. Cardiovascular diseases are one of the leading causes of death globally, and early detection can help in timely intervention and preventive care.
+
+We compare the performance of **three different machine learning models** to determine which is most effective for accurate predictions:
+
+* **Logistic Regression**
+
+* **Decision Tree**
+
+* **K-Nearest Neighbors (KNN)**
+
+The models are evaluated based on their accuracy and ability to generalize to unseen data.
+
+**Dataset:-**
+
+The dataset used in this project is sourced from Kaggle and contains various patient health parameters including:
+
+* Age
+
+* Gender
+
+* Blood pressure
+
+* Cholesterol levels
+
+* Glucose levels
+
+* Physical activity
+
+* Body Mass Index (BMI)
+
+* History of heart disease in family
+
+**Note:** The dataset is preprocessed to handle missing values, encode categorical variables, and normalize features for optimal model performance.
 
 
+**Methodology:-**
 
+**1. Data Preprocessing:**
 
+* Handling missing values
 
+* Encoding categorical features
 
- - Logistic Regression
- - Decision Tree
- - K-Nearest Neighbour
+* Feature scaling/normalization
 
+**2. Model Training:**
 
+* Logistic Regression
 
+* Decision Tree Classifier
 
+* K-Nearest Neighbors
 
-   These three models need to be compared to predict the results of comparison with better accuracy.
+**3. Model Evaluation:**
 
+Models are compared using:
 
+* Accuracy
 
+* Precision, Recall, F1-Score
 
+* Confusion Matrix
 
+**4. Comparison & Analysis:**
+The results are analyzed to determine which model performs best for predicting cardiovascular disease in individuals.
 
+**Tools & Technologies:-**
 
+* Python 3.10
 
+* Pandas, NumPy for data manipulation
 
+* Scikit-learn for machine learning models
 
+* Matplotlib & Seaborn for visualization
 
-  The Dataset used is taken from Kaggle.
-   
+**How to Run:-**
 
+**1.** *Clone this repository:*
+```
+git clone <repository-url>
+```
+**2.** *Install required dependencies:*
+```
+pip install -r requirements.txt
+```
+**3.** *Run the Jupyter Notebook or Python script:*
+```
+jupyter notebook Cardiovascular_Heart_Disease_Prediction.ipynb
+```
+**Results:-**
 
-
-
-
+The final model comparison shows which algorithm performs best in terms of predictive accuracy. This information can be used for early risk detection, potentially saving lives by prompting timely medical attention.
