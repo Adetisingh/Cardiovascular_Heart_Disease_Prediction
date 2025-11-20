@@ -84,7 +84,7 @@ The results are analyzed to determine which model performs best for predicting c
 ```
 pip install -r requirements.txt
 ```
-**2.** *Run the Jupyter Notebook or Python script:*
+**2.** *Run the Jupyter Notebook:*
 ```
 jupyter notebook Cardiovascular_Heart_Disease_Prediction.ipynb
 ```
