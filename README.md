@@ -82,7 +82,7 @@ The results are analyzed to determine which model performs best for predicting c
 
 **1.** *Install required dependencies:*
 ```
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 **2.** *Run the Jupyter Notebook:*
 ```
