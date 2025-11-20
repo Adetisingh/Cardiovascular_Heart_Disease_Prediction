@@ -1,6 +1,7 @@
 # Cardiovascular Heart Disease Prediction
 
 **Project Overview:-**
+
 This project aims to predict whether an individual is at risk of **cardiovascular heart disease** using machine learning techniques. Cardiovascular diseases are one of the leading causes of death globally, and early detection can help in timely intervention and preventive care.
 
 We compare the performance of **three different machine learning models** to determine which is most effective for accurate predictions:
@@ -91,6 +92,3 @@ pip install -r requirements.txt
 ```
 jupyter notebook Cardiovascular_Heart_Disease_Prediction.ipynb
 ```
-**Results:-**
-
-The final model comparison shows which algorithm performs best in terms of predictive accuracy. This information can be used for early risk detection, potentially saving lives by prompting timely medical attention.
